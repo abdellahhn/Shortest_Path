@@ -1,0 +1,214 @@
+Nombre de lignes = 165
+Nombre de stations initiales = 4465
+Nombre de services = 1
+Chargement des données effectué en 24.6511 secondes
+Nombre de stations ayant au moins 1 arrêt = 4346
+Nombre de transferts = 871
+Nombres de voyages = 3616
+Nombre d'arrêts = 169264
+Le nombre d'arcs (sans le point origine et destination) est = 658927
+Graphe (sans le point source et destination) a été produit en 2.90919 secondes
+
+==========================================
+           début de la simulation         
+==========================================
+
+
+Test numéro 0
+station du point origine = 1-2944 - Soumande (lat:46.8325, long:-71.2458)
+station du point destination = 1-1634 - Lavoisier/1634 (lat:46.7962, long:-71.2695)
+distance = 4.43069 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-1725 - Centre de foires (lat:46.8266, long:-71.2456)
+De cette station, prenez l'autobus numéro 802 à l'heure 07:43:32 Vers Station Belvédère (Ouest)
+et arrêtez-vous à la station 1-1163 - Ste-Foy (lat:46.7995, long:-71.2435) à l'heure 07:58:27
+De cette station, rendez-vous à pieds à la station 1-1400 - H. St-Sacrement (lat:46.7996, long:-71.2432)
+De cette station, prenez l'autobus numéro 807 à l'heure 08:10:00 Vers Pointe-de-Sainte-Foy (Ouest)
+et arrêtez-vous à la station 1-1409 - Marois (lat:46.7918, long:-71.2616) à l'heure 08:15:23
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:24:41
+Durée du trajet: 0 heures, 54 minutes, 41 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 30581 microsecondes
+
+Test numéro 1
+station du point origine = 1-3963 - Dandrieu (lat:46.8039, long:-71.306)
+station du point destination = 1-1133 - St-Jean/1133 (lat:46.8145, long:-71.2096)
+distance = 7.42667 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-5256 - Lahaye (lat:46.8168, long:-71.3063)
+De cette station, prenez l'autobus numéro 279 à l'heure 07:55:55 Vers Colline Parlementaire (Sud)
+et arrêtez-vous à la station 1-1190 - D'Youville (lat:46.8117, long:-71.2154) à l'heure 08:16:00
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:22:27
+Durée du trajet: 0 heures, 52 minutes, 27 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 9904 microsecondes
+
+Test numéro 2
+station du point origine = 1-4197 - la Colline/4197 (lat:46.8565, long:-71.3414)
+station du point destination = 1-5631 - Chateaubriand (lat:46.8393, long:-71.427)
+distance = 6.7871 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-4092 - Centre St-Louis (lat:46.8517, long:-71.3596)
+De cette station, prenez l'autobus numéro 70 à l'heure 07:52:44 Vers Val-Bélair (Nord)
+et arrêtez-vous à la station 1-5568 - Chateaubriand (lat:46.8392, long:-71.4264) à l'heure 08:05:16
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:05:50
+Durée du trajet: 0 heures, 35 minutes, 50 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 1709 microsecondes
+
+Test numéro 3
+station du point origine = 1-3952 - de l'Arcandier (lat:46.9003, long:-71.2056)
+station du point destination = 1-4765 - Baker (lat:46.8217, long:-71.2672)
+distance = 9.91011 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-5483 - Thomassin (lat:46.8967, long:-71.2078)
+De cette station, prenez l'autobus numéro 59 à l'heure 07:37:47 Vers Terminus Charlesbourg (Ouest)
+et arrêtez-vous à la station 1-5700 - T. Charlesbourg (lat:46.8619, long:-71.2683) à l'heure 07:59:00
+De cette station, rendez-vous à pieds à la station 1-5701 - T. Charlesbourg (lat:46.8618, long:-71.2674)
+De cette station, prenez l'autobus numéro 330 à l'heure 08:04:00 Vers Univ.Laval/Cégep Garneau (Sud)
+et arrêtez-vous à la station 1-2612 - 1re Avenue/2612 (lat:46.8418, long:-71.2477) à l'heure 08:09:31
+De cette station, rendez-vous à pieds à la station 1-5852 - 41e Rue (lat:46.8416, long:-71.2487)
+De cette station, prenez l'autobus numéro 3 à l'heure 08:18:00 Vers Grand Théâtre (Sud)
+et arrêtez-vous à la station 1-6363 - des Peupliers (lat:46.8321, long:-71.259) à l'heure 08:23:35
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:39:19
+Durée du trajet: 1 heures, 9 minutes, 19 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 22473 microsecondes
+
+Test numéro 4
+station du point origine = 1-5058 - Pépin (lat:46.8093, long:-71.285)
+station du point destination = 1-4870 - Beauvais (lat:46.8608, long:-71.3281)
+distance = 6.59839 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-5206 - Desrochers (lat:46.8175, long:-71.2745)
+De cette station, prenez l'autobus numéro 85 à l'heure 07:45:12 Vers Lebourgneuf (Nord)
+et arrêtez-vous à la station 1-2633 - T. Gal. Capitale (lat:46.8308, long:-71.2962) à l'heure 07:57:00
+De cette station, rendez-vous à pieds à la station 1-3023 - T. Gal. Capitale (lat:46.8307, long:-71.2967)
+De cette station, prenez l'autobus numéro 82 à l'heure 08:00:00 Vers Lac-Saint-Charles (Nord)
+et arrêtez-vous à la station 1-4778 - Beauvais (lat:46.8606, long:-71.3278) à l'heure 08:16:31
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:16:51
+Durée du trajet: 0 heures, 46 minutes, 51 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 5949 microsecondes
+
+Test numéro 5
+station du point origine = 1-1136 - Poulin (lat:46.8486, long:-71.2128)
+station du point destination = 1-2196 - St-Louis/2196 (lat:46.7687, long:-71.2662)
+distance = 9.76482 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-5240 - Alexandra (lat:46.8556, long:-71.2167)
+De cette station, prenez l'autobus numéro 536 à l'heure 07:42:00 Vers Sainte-Foy Centre (Sud)
+et arrêtez-vous à la station 1-1787 - Place Ste-Foy (lat:46.7733, long:-71.277) à l'heure 08:02:40
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:14:16
+Durée du trajet: 0 heures, 44 minutes, 16 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 9503 microsecondes
+
+Test numéro 6
+station du point origine = 1-4746 - de la Douceur (lat:46.8948, long:-71.3722)
+station du point destination = 1-2958 - 5e Avenue (lat:46.8402, long:-71.2617)
+distance = 10.3681 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-4951 - des Merisiers (lat:46.8866, long:-71.3703)
+De cette station, prenez l'autobus numéro 572 à l'heure 07:42:26 Vers Sainte-Foy Centre (Sud)
+et arrêtez-vous à la station 1-4340 - Chauveau/4340 (lat:46.8455, long:-71.3216) à l'heure 07:56:00
+De cette station, prenez l'autobus numéro 185 à l'heure 08:08:15 Vers Station Belvédère / Sainte-Foy Centre (Sud)
+et arrêtez-vous à la station 1-2633 - T. Gal. Capitale (lat:46.8308, long:-71.2962) à l'heure 08:19:00
+De cette station, rendez-vous à pieds à la station 1-2539 - T. Gal. Capitale (lat:46.8304, long:-71.2969)
+De cette station, prenez l'autobus numéro 803 à l'heure 08:20:00 Vers Terminus Beauport (Est)
+et arrêtez-vous à la station 1-4053 - F.-Byrne (lat:46.8454, long:-71.2666) à l'heure 08:29:30
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:37:46
+Durée du trajet: 1 heures, 7 minutes, 46 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 5111 microsecondes
+
+Test numéro 7
+station du point origine = 1-1416 - St. Lawrence (lat:46.7873, long:-71.2809)
+station du point destination = 1-1907 - du Campanile (lat:46.7615, long:-71.3309)
+distance = 4.76865 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-1417 - Cégep de Ste-Foy (lat:46.7848, long:-71.2858)
+De cette station, prenez l'autobus numéro 807 à l'heure 07:37:00 Vers Pointe-de-Sainte-Foy (Ouest)
+et arrêtez-vous à la station 1-2439 - Grandjean/2439 (lat:46.7641, long:-71.3319) à l'heure 07:50:27
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 07:54:01
+Durée du trajet: 0 heures, 24 minutes, 1 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 1014 microsecondes
+
+Test numéro 8
+station du point origine = 1-6074 - du Sourcin/6074 (lat:46.7469, long:-71.3837)
+station du point destination = 1-2355 - R.-Masson (lat:46.7723, long:-71.2583)
+distance = 9.96469 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-5331 - des Chasseurs (lat:46.7531, long:-71.3677)
+De cette station, prenez l'autobus numéro 94 à l'heure 07:59:45 Vers Cégep Garneau (Est)
+et arrêtez-vous à la station 1-1828 - SSQ (lat:46.7729, long:-71.2771) à l'heure 08:20:00
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:37:12
+Durée du trajet: 1 heures, 7 minutes, 12 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 1204 microsecondes
+
+Test numéro 9
+station du point origine = 1-3121 - Gosselin/3121 (lat:46.8553, long:-71.2752)
+station du point destination = 1-4312 - W.-Caron/4312 (lat:46.8454, long:-71.3545)
+distance = 6.12855 kilomètres
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-4061 - Trudelle (lat:46.8552, long:-71.2791)
+De cette station, prenez l'autobus numéro 72 à l'heure 07:38:23 Vers Loretteville (Ouest)
+et arrêtez-vous à la station 1-3634 - Racine/3634 (lat:46.8504, long:-71.3607) à l'heure 08:00:00
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:08:41
+Durée du trajet: 0 heures, 38 minutes, 41 secondes
+Temps d'exécution de l'algorithme de plus court chemin: 3175 microsecondes
+
+La moyenne du temps d'exécution sur 10 itinéraires est de 9062.3 microsecondes
